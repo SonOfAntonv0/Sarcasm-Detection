@@ -30,7 +30,7 @@ Each record consists of three attributes:
 
 ![ffaasjabs](https://user-images.githubusercontent.com/30777433/64888419-9aa65880-d688-11e9-9871-77ab9eaf7c92.jpg)
 
-<h2><b>MACHINE LEARNING MODELS TRIED FOR SARCASM DETECTION</b></h2>
+<h2><b>ML models tried for the problem</b></h2>
 
 ![fidfj](https://user-images.githubusercontent.com/30777433/64888758-63847700-d689-11e9-9c69-04fdae640b0a.jpg)
 
@@ -40,5 +40,12 @@ Each record consists of three attributes:
 
 ![fufygyzsg](https://user-images.githubusercontent.com/30777433/64888801-8151dc00-d689-11e9-9c5b-d7d5c452d5d4.jpg)
 
+<h2><b>Comparison of testing accuracy of different ML models</b></h2>
+
+![lvlzhkuag](https://user-images.githubusercontent.com/30777433/64889710-87e15300-d68b-11e9-904d-89ab625278a3.jpg)
+
+<h2><b>Variation of test set accuracy with number of epochs for different learning rates</b></h2>
+
+![jly](https://user-images.githubusercontent.com/30777433/64890297-eb1fb500-d68c-11e9-815e-bf44488dfb92.jpg)
 
 
